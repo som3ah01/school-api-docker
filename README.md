@@ -17,11 +17,12 @@ School Api spring boot and docker with DB and unit tests and integration tests
 http://localhost:8080/api/swagger-ui-school-api.html  
 This is the Swagger-UI to explore our API's and can play or give it a Test  
 
-# Based on Join-Faces Spring Boot Starter
- - Spring boot 2.6  
+# Based on Spring Boot and Spring security and swagger-ui
+ - Spring boot 2.6 
+ - open-api / swagger-ui 
  - Unit tests and Integration tests
  - Spring Data ( JPA )
- - DB -> ( H2 in Memory DB as default / MySql )
+ - DB -> ( H2 in Memory DB for Integration tests / and MySql as defualt )
  - JDK 11
  
  # How to use or
